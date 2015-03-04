@@ -1,0 +1,48 @@
+.index_content{margin:0 auto;background: url(../img/bg.gif) center 475px no-repeat;}
+/*头部*/
+.index_content .head{width:1123px;margin:0 auto;height:63px;padding-top: 15px;}
+.index_content .logo{padding-left: 15px;}
+.index_content .nav{padding-left: 70px;}
+.index_content .nav>li{display: inline-block;cursor: pointer;padding-right: 43px;padding-top: 12px;}
+.index_content .nav>li.sizhan{background: url(../img/nav_icon1.jpg) left bottom no-repeat;padding-left: 35px;}
+.index_content .nav>li.yazhu{background: url(../img/nav_icon2.jpg) left bottom no-repeat;padding-left: 20px;}
+.index_content .nav>li.sishang{background: url(../img/nav_icon3.jpg) left bottom no-repeat;padding-left: 22px;}
+.index_content .nav>li.meiqi{background: url(../img/nav_icon4.jpg) left bottom no-repeat;padding-left: 30px;}
+.index_content .navMore>li{display: inline-block;cursor: pointer;padding-right: 28px;padding-top: 12px;}
+/*barner*/
+.index_content .barner{width:1123px;margin:0 auto;}
+/*滚动消息*/
+.index_content .scrollMessage{width:1123px;margin:0 auto;padding: 48px 0 48px 180px;}
+.index_content .scrollMessage li{width: 160px;height: 160px;border-radius: 160px; text-align: center; background-color: #c4c4c5;margin-left: 26px;}
+.index_content .scrollMessage li.text a{display: block;height: 120px;width:108px;padding: 20px 26px;line-height: 38px;color: #efeff0;}
+/*私盏产品信息*/
+.index_content .sizhanProduct{width:1072px;margin: 165px auto 0;}
+.index_content .sizhanProduct .title{width: 324px;padding-left: 24px;}
+.index_content .sizhanProduct .productList1 .productItem{padding-top: 39px;}
+.index_content .sizhanProduct .productItem{width: 324px;padding-left: 24px;}
+.index_content .sizhanProduct .productList2{margin-top: 23px;}
+.index_content .sizhanProduct .productName{padding-top: 3px;}
+/*雅筑产品信息*/
+.index_content .yazhuProducts{width: 1082px;margin: 126px auto 0;}
+.index_content .yazhuProducts .product1{width: 496px;}
+.index_content .yazhuProducts .product2{margin-left: 23px;}
+.index_content .yazhuProducts .title>p:first-child{padding-top: 160px;}
+.index_content .yazhuProducts .moreBtn{padding-left: 8px;}
+/*思赏产品信息*/
+.index_content .sishangProducts{width: 1000px;margin: 156px auto 0;}
+.index_content .sishangProducts .title{width: 244px;}
+/*美器产品信息*/
+.index_content .meiqiProducts{width: 1054px;margin: 120px auto 0;}
+.index_content .meiqiProducts .product{width: 418px;margin-right: 20px;}
+.index_content .meiqiProducts .title{margin-left: 71px;}
+/*底部信息*/
+.index_content .bottom{width:100%;background-color: #f6f5f4;margin-top: 220px;padding-top: 60px;padding-bottom: 143px;color: #63605f;}
+.index_content .bottom>ul{width: 840px;margin: 0 auto;}
+.index_content .bottom>ul>li{width: 222px;}
+.index_content .bottom>ul>li:nth-child(3){margin-left: 93px;}
+.index_content .bottom>ul>li:nth-child(4){width: 60px;text-align: center;}
+.index_content .bottom>ul>li .list{margin-top: 39px;line-height:28px; }
+
+/*了解更多*/
+.index_content .moreBtn{padding: 8px 5px;}
+.index_content .moreBtn span{padding: 3px 5px;background-color: #f7f6f5;border-radius: 3px;cursor: pointer;}
