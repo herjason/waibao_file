@@ -2,7 +2,7 @@
 /*头部*/
 .index_content .head{width:1123px;margin:0 auto;height:63px;padding-top: 15px;}
 .index_content .logo{padding-left: 15px;}
-.index_content .nav{padding-left: 70px;}
+.index_content .nav{padding-left: 70px;font-size: 15px;}
 .index_content .nav>li{display: inline-block;cursor: pointer;padding-right: 43px;padding-top: 12px;}
 .index_content .nav>li.sizhan{background: url(../img/nav_icon1.jpg) left bottom no-repeat;padding-left: 35px;}
 .index_content .nav>li.yazhu{background: url(../img/nav_icon2.jpg) left bottom no-repeat;padding-left: 20px;}
@@ -36,12 +36,13 @@
 .index_content .meiqiProducts .product{width: 418px;margin-right: 20px;}
 .index_content .meiqiProducts .title{margin-left: 71px;}
 /*底部信息*/
-.index_content .bottom{width:100%;background-color: #f6f5f4;margin-top: 220px;padding-top: 60px;padding-bottom: 143px;color: #63605f;}
+.index_content .bottom{width:100%;background-color: #f6f5f4;margin-top: 220px;padding-top: 60px;padding-bottom: 143px;color: #63605f;font-size: 15px;}
+.index_content .bottom a{color: #63605f;}
 .index_content .bottom>ul{width: 840px;margin: 0 auto;}
 .index_content .bottom>ul>li{width: 222px;}
 .index_content .bottom>ul>li:nth-child(3){margin-left: 93px;}
-.index_content .bottom>ul>li:nth-child(4){width: 60px;text-align: center;}
-.index_content .bottom>ul>li .list{margin-top: 39px;line-height:28px; }
+.index_content .bottom>ul>li:nth-child(4){width: 70px;text-align: center;}
+.index_content .bottom>ul>li .list{margin-top: 39px;line-height:28px; font-size: 13px;}
 
 /*了解更多*/
 .index_content .moreBtn{padding: 8px 5px;}
