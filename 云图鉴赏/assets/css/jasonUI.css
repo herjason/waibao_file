@@ -200,7 +200,7 @@ input,select,textarea{-webkit-appearance:listbox;appearance:listbox; border:0;ma
 
 
 /*---------微名片公用样式---------*/
-body{color: #7c7d7d;background-color: #fff;font-size: 14px;font-family: "黑体","微软雅黑"}
+body{color: #7c7d7d;background-color: #fff;font-size: 14px;font-family: "汉仪仿宋简","黑体","微软雅黑"}
 .jTop .jCenter{font-size: 18px;font-weight: bold;}
 .jBox,.jList{background-color: #fff;line-height: 36px;}
 .jBox>li input,.jList>li input{line-height: 36px;}
